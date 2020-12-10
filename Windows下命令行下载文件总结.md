@@ -19,7 +19,7 @@ win2003、winXP不支持
 
 $client = new-object System.Net.WebClient
 
-$client.DownloadFile('http://payloads.online/file.tar.gz', 'E:\file.tar.gz')
+$client.DownloadFile('http://www.baidu.com/file.tar.gz', 'E:\file.tar.gz')
 
 ## 0x01 ftp
 
